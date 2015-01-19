@@ -5,7 +5,7 @@
     "branch": "cm-11.0"
   },
   {
-    "repository": "CyanogenMod/android_device_oppo_common",
+    "repository": "OSR-Devices/android_device_oppo_common",
     "target_path": "device/oppo/common",
     "branch": "cm-11.0"
   },
